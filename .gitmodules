@@ -1,0 +1,15 @@
+[submodule "OS-CA1"]
+	path = OS-CA1
+	url = git@github.com:AMB8084/OS-CA1.git
+[submodule "OS-CA2"]
+	path = OS-CA2
+	url = git@github.com:AMB8084/OS-CA2.git
+[submodule "OS-CA3"]
+	path = OS-CA3
+	url = git@github.com:AMB8084/OS-CA3.git
+[submodule "OS-CA4"]
+	path = OS-CA4
+	url = git@github.com:AMB8084/OS-CA4.git
+[submodule "OS-CA5"]
+	path = OS-CA5
+	url = git@github.com:AMB8084/OS-CA5.git
